@@ -1,20 +1,86 @@
 <img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
-<h2 align="center">
-  Ignite - Trilha ReactJS
-</h2>
-<p align="center">
-  Aula 02: Primeira aplicação web com ReactJS
+
+# dt money
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20by-Helton-green">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helton-quintans/aula02-trilha-reactjs?color=green">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/helton-quintans/aula02-trilha-reactjs?color=green=flat-square">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+  </a>
+  
 </p>
 
-## Sobre a aula
+<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
 
-Nesta aula aprendi sobre a utilização do [MirageJS](https://miragejs.com) para a criação de API's fakes para gerenciar e acelerar a produtividade no frontend. Também foi revisto o conceito sobre a Context API do React e foi introduzido uma nova biblioteca: [React-Modal](http://reactcommunity.org/react-modal/).
+## Tópicos 
 
-## 🚀 Como executar
+[Sobre o dt money](#sobre-o-dt-money)
 
-- Clone o repositório
-- Instale as dependências com yarn
-- Inicie o servidor com yarn start
-- Agora você pode acessar localhost:3000 do seu navegador.
+[Tecnologias](#tecnologias)
 
-Feito por Helton Quintãns
+[Instalação e uso](#instalação-e-uso)
+
+[Licença](#licença)
+
+<br>
+
+## Sobre o dt money
+
+O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
+
+<br>
+
+<p align="center">
+  <img src="src/assets/toReadme/dt-money.gif" alt="Página inicial">
+</p>
+
+## Tecnologias
+
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
+
+<br>
+
+## Instalação e uso
+
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/martins-rafael/dtmoney.git
+# ou use a opção de download.
+
+# Entre na pasta web com 
+cd dtmoney
+
+# Instale as dependências
+yarn install
+
+# Rode a aplicação
+yarn start
+```
+
+<br>
+
+
+## Licença
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :orange_heart: by [Rafael Martins](https://github.com/martins-rafael)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
