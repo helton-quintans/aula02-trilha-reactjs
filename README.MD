@@ -3,18 +3,17 @@
 # dt money
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20by-Helton-green">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helton-quintans/aula02-trilha-reactjs?color=green">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/helton-quintans/aula02-trilha-reactjs?color=green=flat-square">
+  <img src="https://img.shields.io/badge/Made%20by-Helton-33cc95">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helton-quintans/aula02-trilha-reactjs?color=33cc95">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/helton-quintans/aula02-trilha-reactjs?color=%2333cc95">
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-33cc95?style=flat-square">
   </a>
-  
 </p>
 
 <img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
 
-## Tópicos 
+## Tópicos
 
 [Sobre o dt money](#sobre-o-dt-money)
 
@@ -53,11 +52,11 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/dtmoney.git
+git clone https://github.com/helton-quintans/aula02-trilha-reactjs.git
 # ou use a opção de download.
 
-# Entre na pasta web com 
-cd dtmoney
+# Entre na pasta web com
+cd aula02-trilha-reactjs
 
 # Instale as dependências
 yarn install
@@ -68,10 +67,10 @@ yarn start
 
 <br>
 
-
 ## Licença
+
 <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-7cd1a6?style=flat-square">
 </a>
 
 <br>
@@ -80,7 +79,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :orange_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito com :orange_heart: by [Helton Quintãns](https://github.com/helton-quintans)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Helton%20Quintãns-7cd1a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heltonquintans/)](https://www.linkedin.com/in/heltonquintans/)
+[![Gmail Badge](https://img.shields.io/badge/-helton.quit@gmail.com-7cd1a6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helton.quit@gmail.com)](mailto:helton.quit@gmail.com)
