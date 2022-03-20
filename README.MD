@@ -79,7 +79,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :orange_heart: by [Helton Quintãns](https://github.com/helton-quintans)
+Feito com :green_heart: by [Helton Quintãns](https://github.com/helton-quintans)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Helton%20Quintãns-7cd1a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heltonquintans/)](https://www.linkedin.com/in/heltonquintans/)
 [![Gmail Badge](https://img.shields.io/badge/-helton.quit@gmail.com-7cd1a6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helton.quit@gmail.com)](mailto:helton.quit@gmail.com)
