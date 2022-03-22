@@ -1,6 +1,8 @@
-<img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
+
+<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
 
 # dt money
+  <img width="746" heigth="503" src="src/assets/toReadme/dt-money.gif" alt="Página inicial">
 
 <p>
   <img src="https://img.shields.io/badge/Made%20by-Helton-33cc95">
@@ -11,7 +13,6 @@
   </a>
 </p>
 
-<img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
 
 ## Tópicos
 
@@ -32,7 +33,8 @@ O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, pe
 <br>
 
 <p align="center">
-  <img src="src/assets/toReadme/dt-money.gif" alt="Página inicial">
+<img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
+  
 </p>
 
 ## Tecnologias
